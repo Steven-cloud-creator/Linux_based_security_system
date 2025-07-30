@@ -1,0 +1,2 @@
+# Linux_based_security_system
+本仓库为嵌入式学习仓库

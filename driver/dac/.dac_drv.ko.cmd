@@ -1,0 +1,1 @@
+cmd_/home/zhanghao/security/driver/dac/dac_drv.ko := arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /home/zhanghao/security/driver/dac/dac_drv.ko /home/zhanghao/security/driver/dac/dac_drv.o /home/zhanghao/security/driver/dac/dac_drv.mod.o ;  true
